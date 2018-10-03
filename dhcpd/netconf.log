@@ -1,0 +1,4 @@
+<INFO> 3-Oct-2018::14:19:48.024 coruscant confd[3604]: netconf id=28 new tcp session for user "etu" from ::1
+<INFO> 3-Oct-2018::15:50:22.284 coruscant confd[3604]: netconf id=29 new tcp session for user "etu" from ::1
+<INFO> 3-Oct-2018::15:50:41.746 coruscant confd[3604]: netconf id=29 close-session attrs: message-id="urn:uuid:27bc40eb-d8d8-4960-868a-6a74e2750eae"
+<INFO> 3-Oct-2018::15:50:41.746 coruscant confd[3604]: netconf id=29 sending rpc-reply, attrs: message-id="urn:uuid:27bc40eb-d8d8-4960-868a-6a74e2750eae"
